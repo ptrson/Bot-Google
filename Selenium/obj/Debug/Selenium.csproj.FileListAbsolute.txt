@@ -1,0 +1,9 @@
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\bin\Debug\Selenium.exe.config
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\bin\Debug\Selenium.exe
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\bin\Debug\Selenium.pdb
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\bin\Debug\WebDriver.dll
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\bin\Debug\WebDriver.xml
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\obj\Debug\Selenium.exe
+D:\Informatyka\Administrowanie Usługami Internetowymi\Selenium\Selenium\obj\Debug\Selenium.pdb
